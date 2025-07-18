@@ -20,4 +20,4 @@ This dashboard presents a summary of eCommerce performance, including:
 - Power BI Desktop
 
 ## 📬 Contact
-For feedback or collaboration, please reach out to [YourEmail@example.com]
+For feedback or collaboration, please reach out to [sadhandas2001@gmail.com]
